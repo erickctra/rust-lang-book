@@ -5,3 +5,4 @@ edition = "2021"
 authors = ["Erick Cintra erickcintra@proton.me"]
 
 [dependencies]
+rand = "0.8.5"
